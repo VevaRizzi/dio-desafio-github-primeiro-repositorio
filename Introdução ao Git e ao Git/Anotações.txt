@@ -1,0 +1,4 @@
+Link para um curso sobre Git do Gustavo Guanabara - Curso em Video:
+https://www.cursoemvideo.com/blog/modulo-cat/git-e-github/
+
+Esse curso é um dos mais conhecidos sobre o Git, que é u terminal extendido para otimizar o uso do Git.
